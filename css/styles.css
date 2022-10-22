@@ -1,0 +1,91 @@
+body {
+    background-color: #42946545;
+}
+
+h1 {
+    color: #2b8248;
+}
+
+/* navbar */
+.nav-text {
+    color: #74ffa38e !important;
+}
+
+/* introduction */
+.intro {
+    text-align: center;
+    padding: 10em 0 3em;
+}
+
+.intro h1 {
+    font-size: 5em;
+}
+
+.intro i {
+    font-size: 10em;
+    padding-top: 30px;
+}
+
+/* past projects */
+.what-i-do {
+    padding: 5em;
+    background-color: #0f91cd6c;
+}
+
+.what-i-do .card {
+    background-color: #0f91cda1;
+}
+
+/* skills - tools */
+.skills-tools {
+    padding: 5em;
+    background-color: #aebdca9b;
+}
+
+.skills-tools .card {
+    margin: 0 5em 2em 5em;
+    background-color: #AEBDCA;
+    border-color: #93a1ae !important;
+    border-radius: 25px !important;
+
+}
+
+.skills-tools .card-title {
+    padding: 1em 0 3em;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 2em;
+}
+
+.skill-card {
+    padding: 2em 0;
+}
+
+/* experience */
+
+.experience {
+    padding: 5em 10em 10em 10em;
+    background-color: #09008d7c;
+}
+
+.experience img {
+    border-radius: 25px;
+}
+
+/* footer */
+.footer {
+    background-color: #2b8248;
+    text-align: center;
+    padding: 6em 0 2em;
+}
+
+.footer .icons i {
+    font-size: 2em;
+    padding: 0 1em;
+}
+
+.footer p {
+    padding-top: 3em;
+}
