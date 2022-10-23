@@ -89,3 +89,17 @@ h2 {
 .footer p {
     padding-top: 3em;
 }
+
+@media (max-width: 600px) {
+    .skills-tools .card {
+        margin: 0 3em 2em 3em;
+    }
+
+    .experience {
+        padding: 2.5em 5em 5em 5em;
+    }
+
+    .experience .carousel-caption {
+        font-size: x-small;
+    }
+}
